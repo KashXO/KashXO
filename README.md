@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KashXO
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript and finished the full course on CC
-- 💞️ I’m looking to collaborate on app and web development or any project basically
+- 👀 I’m interested in full-stack programming
+- 🌱 I've learned HTML, CSS, Javascript
+- 💞️ I’m looking to collaborate on web development primarily
 - 📫 How to reach me kazimarzuk25@gmail.com
 
 <!---
